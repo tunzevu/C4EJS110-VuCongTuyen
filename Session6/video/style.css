@@ -1,0 +1,36 @@
+#p1 {
+    color: red;
+}
+
+.the2 {
+    color: #00FF00;
+}
+
+.b3 {
+    font-size: 24px;
+}
+
+div{
+    font-size: 3em;
+    background: wheat
+}
+
+#div2{
+    color: blue;
+}
+
+a :target{
+    color: yellowgreen;
+}
+
+/* ul li{
+    font-weight: bold;
+} */
+
+.item span{
+    font-size: 100px;
+}
+.item div > span{
+    font-style: italic;
+}
+
